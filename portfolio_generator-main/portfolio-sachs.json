@@ -1,0 +1,93 @@
+{
+  "name": "Julie Sachs",
+  "image_path": "portfolio_media/DSC_3270-Edit.jpg",
+  "contact": {
+    "email": "jasachs@gmail.com",
+    "phone": "",
+    "location": ""
+  },
+  "summary": "A results-driven benefits professional successful at managing stakeholders, multidisciplinary teams, and high-stake projects. Experienced in data and trend analysis; developing, designing, implementing and administering benefit programs; and M&A due diligence.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jasachs1",
+      "svg_path": "img/linkedin.svg"
+    }
+  ],
+  
+  "projects": [
+    {
+      "title": "Aon Pulse Survey - Roth Catch-Up Contributions for High Earners",
+      "summary": "In the summer of 2025, clients started reaching out concerned about what they were hearing or, in many cases not hearing, from their providers about implementing SECURE 2.0's Roth requirement for high earners. As a result of industry concern, I proposed facilitating a survey so that employers could see how others were tackling the challenging implementation.",
+      "url": "https://www.aon.com/en/insights/reports/secure-2-roth-survey",
+      "highlights": [
+        "Designed survey questions.",
+        "Analyzed survey responses weekly in PowerBI.",
+        "Developed final report analysis."
+      ],
+      "images": [
+        {
+          "img_path": "portfolio_media/Aon Report.png",
+          "caption": "Aon Roth Catch-up for High Earners"
+        }
+      ]
+    },
+    {
+      "title": "Pay Equity Analysis",
+      "summary": "A quick analysis of gender disparities in base pay based on open source Kaggle data.",
+      "url": "https://github.com/jasachs/PayEquity",
+      "highlights": [
+        "Utilized Python to analyze dataset and create regression line",
+        "Determined and visualized residuals to identify outliers by gender and job title"
+      ],
+      "images": [
+        {
+          "img_path": "portfolio_media/PayEquityScreenshot.png",
+          "caption": "Regression line versus pay for sample job titles"
+        }
+      ]
+    }
+  ],
+  
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "location": "Ann Arbor, MI",
+      "url": "https://umich.edu",
+      "degrees": [
+        "Bachelors of Science with Highest Distinction in Mathematics",
+        "Minor in Latin"
+      ],
+      "honors": ["Phi Beta Kappa"]
+    }
+  ],
+  "skills": [
+    {
+      "name": ["Excel", "PowerBI/Tableau", "Python", "C++", "SQL", "Visual Basic"]
+    }
+  ],
+  "credentials": [
+    {
+      "name": ["Fellow of the Society of Actuaries", "Enrolled Actuary", "Certified Compensation Professional"]
+    }
+  ],
+"volunteering": [
+    {
+      "name": ["Cascadia Wildlife Camera Crew - 2025-2026", "Frog Shuttle Volunteer - 2023-2025", "Dipsea Race Muir Woods Aid Station Captain - 2023-2025"]
+      
+    }
+  ],
+  
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Working Proficiency"
+    }
+  ]
+ 
+}
