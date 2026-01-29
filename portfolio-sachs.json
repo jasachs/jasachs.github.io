@@ -62,6 +62,12 @@
       "honors": ["Phi Beta Kappa"]
     }
   ],
+    "thought": [
+    {
+      "name": "IRS Releases Proposed Regulations for SECURE 2.0's Catch-up as Roth Requirement",
+      "url": "https://insights-north-america.aon.com/report/legal-consulting-compliance-quarterly-update-q2-report"
+    }
+  ],
   "skills": [
     {
       "name": ["Excel", "PowerBI/Tableau", "Python", "C++", "SQL", "Visual Basic"]
@@ -70,6 +76,11 @@
   "credentials": [
     {
       "name": ["Fellow of the Society of Actuaries", "Enrolled Actuary", "Certified Compensation Professional"]
+    }
+  ],
+  "speaking": [
+    {
+      "name": ["We'll save you a Seat at the Mortality Table - Part II, 11/2017 WPBC SF", "Bringing Clarity to Cash Balance Plans, 4/2019 WPBC SF", "Single-Employer Plan Funding Rules Refresher, 5/2020 CCA", "Plan Mergers and Spinoffs for DB and DC Plans, 2022 CCA Annual Meeting", "Merger/Spinoff Funding and 436 Restrictions, 2023 Enrolled Actuaries Conference", "Implementing SECURE 2.0: Administrative and Operation Impacts for Plan Professionals, 2025 CCA Annual Meeting"]
     }
   ],
 "volunteering": [
@@ -86,7 +97,7 @@
     },
     {
       "language": "German",
-      "fluency": "Working Proficiency"
+      "fluency": "B2"
     }
   ]
  
